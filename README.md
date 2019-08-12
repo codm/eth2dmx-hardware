@@ -32,6 +32,6 @@ Please follow Robert's instructions on compiling and use our version of the libr
 
 ## Legal
 
-We do __not__ allow reproduction of the hardware without our consent. If you wan't to use the schematics and or board in your own private project, feel free. But don't use __any__ of this in a commercial manner without contacting us!
+We do __not__ allow reproduction of the hardware without our consent. If you wan't to use the schematics and/or board in your own private project, feel free. But don't use __any__ of this in a commercial manner without contacting us!
 
 (c) cod.m GmbH, 2018, Germany - CC-BY-SA
